@@ -13,3 +13,4 @@ Tugas praktikum Minggu 5 - Risgister & Home & login
 [Cek di Expo Snack](https://snack.expo.dev/@prasetya-amal-dinata/tugas-pertemuan5)"# THE-SECURE-GUARD" 
 "# THE-SECURE-GUARD" 
 "# THE-SECURE-GUARD" 
+"# pertemuan5" 
