@@ -2,7 +2,7 @@
 Tugas praktikum Minggu 5 - Risgister & Home & login
 
 ## 📸 Preview
-![App Greeting](.asset/images/junkun.jpeg)
+![App Greeting](.assets/images/junkun.jpeg)
 
 ## 🛠️ Logic Implemented
 - **Resgister:** Managing name and role input.
